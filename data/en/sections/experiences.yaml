@@ -1,0 +1,40 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Scotiabank Peru
+    url: "https://www.scotiabank.com.pe"
+    location: Lima, Peru
+    # company overview
+  positions:
+  - designation: Senior Adquisition Strategy Analyst
+    start: Feb 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Implementation of predictive and descriptive models.
+    - Design and deployement of sales monitoring dashboards.
+    - Portfolio Analysis during COVID-19 pandemic.
+    - Large database management.
+
+- company:
+    name: Central Reserve Bank of Peru
+    url: "https://www.bcrp.gob.pe"
+    location: Lima, Peru
+  positions:
+  - designation: Economic Research Intern
+    start: Jan 2018
+    end: Dec 2018
+    responsibilities:
+    - Text Mining Analysis for inflation forecast.
+    - Visualization design for dollarization monitoring of the real state market in Peru.
