@@ -13,6 +13,7 @@ section:
 skills:
 - name: R
   summary: "Database managing, statistical modeling and visualization with tidyverse and tidymodels"
+  logo: /images/skills/r.png
   url: "https://www.r-project.org"
 
 - name: SQL
