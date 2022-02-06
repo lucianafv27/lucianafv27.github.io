@@ -12,6 +12,11 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: R
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "Database managing, statistical modeling and visualization with tidyverse and tidymodels"
   url: "https://www.r-project.org"
 
+- name: SQL
+  summary: "Data preparation and modeling of relational databases"
+
+- name: PowerBI
+  summary: "Design and implementation of analytical dashboards"

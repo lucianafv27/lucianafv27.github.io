@@ -38,3 +38,15 @@ experiences:
     responsibilities:
     - Text Mining Analysis for inflation forecast.
     - Visualization design for dollarization monitoring of the real state market in Peru.
+
+- company:
+    name: Banco de Crédito del Perú
+    url: "https://www.viabcp.com"
+    location: Lima, Peru
+  positions:
+  - designation: Risk Management Intern
+    start: Feb 2017
+    end: Aug 2017
+    responsibilities:
+    - Quality assurance of the information actives in the corporate database.
+    - Validate the implementation process of analytical solutions and reporting of the result.

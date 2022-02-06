@@ -7,18 +7,16 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Full Time Sugar Baby
+designation: Senior Adquisition Strategy Analyst
 # your company information
 company:
-  name: Anywhere but Peru
-  url: "https://www.example.com"
+  name: Scotiabank Perú
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: '
-BSc with Major in Statistics, interested in learning new subjects, especially those related to Data Science. Proactive, analytical, organized, with high communication, leadership, teamwork and problem solving skills.'
+summary: "BSc with Major in Statistics. I have more than two years of experience in analytical roles in the Finance Industry. I'm always interested in learning new subjects, especially those related to Business Analytics. I'm proactive, analytical driven, well organized, with excellent communication, leadership and teamwork skills."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -26,19 +24,6 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/lucianafv27"
-
-# your soft skills
-# give the percentage between 50 to 100 with 5 intervals.
-# currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Leadership
-  percentage: 85
-  color: blue
-- name: Team Work
-  percentage: 90
-  color: yellow
-- name: Communication
-  percentage: 90
-  color: yellow
-- name: Problem Solving
-  color: yellow
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/luciana-figueroa-valdivia27/"
