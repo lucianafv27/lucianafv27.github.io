@@ -17,7 +17,9 @@ skills:
   url: "https://www.r-project.org"
 
 - name: SQL
+  logo: /images/skills/database.png
   summary: "Data preparation and modeling of relational databases"
 
 - name: PowerBI
+  logo: /images/skills/powerbi.png
   summary: "Design and implementation of analytical dashboards"
