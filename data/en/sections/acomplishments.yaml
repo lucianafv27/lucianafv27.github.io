@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: 3rd Place at DataFest
+  timeline: "Nov 2016"
+  organization:
+    name: Banco de Credito del Perú
+    url: https://datafest.esan.edu.pe/2016/
+  courseOverview: Contest held by BCP (Banco de Crédito del Perú) and ESAN (Escuela Superior de Administración y Negocios) where each team had to use a real database set that held information about small and medium Peruvian companies with the objetive of creating a model to predict the annual income of them, alongside of a business strategy using the information obtained to maximize the banks share of wallet.
+
+- name: Speaker RXXXVI Encuentro de Economistas del BCRP
+  timeline: "Oct 2018"
+  organization:
+    name: Banco Central de Reserva
+    url: https://www.bcrp.gob.pe/docs/Proyeccion-Institucional/Encuentro-de-Economistas/2018/ee-2018-lahura-figueroa.pdf
+  courseOverview: Annual conference held by the Central Reserve Bank of Peru, where economic related studies are shown. It was shown how the language that the Central Bank uses for their press communication has an impact on different macroeconomic variables. For this study Topic Modeling techniques were used.
+  certificateURL: "https://example.com"
+
+- name: Speaker at the Royal Statistical Society Conference
+  timeline: "Sep 2018"
+  organization:
+    name: Royal Statistical Society
+    url: https://rss.org.uk/RSS/media/File-library/Conference/abstracts_booklet_rss_2018_online.pdf
+  courseOverview: Presented my BSc thesis in a poster format titled “Newspaper Analytics and the Dynamics of the Exchange Rate in Peru”. This research was done during my time as an intern at the Central Bank.
+
+
+
