@@ -1,4 +1,4 @@
-baseURL: "https://lucianafv27.netlify.app"
+baseURL: https://lucianafv27.netlify.app
 
 languageCode: en-us
 title: "Luciana Figueroa"
@@ -25,6 +25,7 @@ enableEmoji: true
 params:
   # GitHub repo URL of your site
   gitRepo: https://github.com/lucianafv27/lucianafv27.github.io
+  background: 'images/default-background.jpg'
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
